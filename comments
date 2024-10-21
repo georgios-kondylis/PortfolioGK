@@ -1,0 +1,45 @@
+<section class="services" id="services">
+        <h2 class="heading">Services</h2>
+
+        <div class="services_box">
+            <div class="services_cont">
+                <h3>UI / UX Design</h3>
+                <p>
+                    Creative and detail-oriented UI/UX Designer with a knack for crafting 
+                    intuitive and visually appealing user interfaces. 
+                    I transform complex challenges into seamless, 
+                    user-friendly experiences that enhance both user satisfaction
+                    and business outcomes. Driven by a passion for design,
+                    I continuously stay updated on industry trends to deliver 
+                    innovative solutions.
+                </p>
+            </div>
+            <div class="services_cont">
+                <h3>Web Design</h3>
+                <p>Creating visually compelling and user-friendly websites that 
+                    reflect your brand's identity. With 8 months of experience, 
+                    I specialize in designing responsive sites that look great on all 
+                    devices. I’m passionate about UI/UX principles, ensuring each design
+                    is intuitive and engaging. Whether you need a new website or 
+                    a redesign, I’m committed to delivering creative solutions 
+                    that resonate with your audience and elevate your online presence.
+                </p>
+            </div>
+            <div class="services_cont">
+                <h3>Web Development</h3>
+                <p>Offering responsive and user-friendly web development services,
+                    with a focus on clean code and intuitive design.
+                    Whether you need a dynamic website or a custom mini game,
+                    I bring 8 months of hands-on experience in HTML, CSS, 
+                    and JavaScript. Committed to continuous improvement and 
+                    collaboration, I’m dedicated to delivering high-quality
+                    digital solutions that enhance user experience and engage 
+                    your audience.
+                </p>
+            </div>
+        </div>
+
+
+ <form action="https://api.web3forms.com/submit" method="POST">
+
+<input type="hidden" name="access_key" value="4ad0733f-4b5b-4cad-b86d-67d9cc4e510d">
